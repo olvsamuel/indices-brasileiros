@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+      "axios": "^0.24.0",
+      "html-table-to-json": "^1.0.0",
+      "moment": "^2.29.1"
+    }
+  }
+  
